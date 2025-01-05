@@ -27,6 +27,7 @@ Requirements:
 Here's a basic structure to get them started:
 
 ```html file="./starter.html"
+...
 ```
 
 Submission Instructions:
