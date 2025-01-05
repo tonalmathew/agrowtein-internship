@@ -1,6 +1,6 @@
 # Day 1 Homework Task
 
-Project: Personal Portfolio Page
+### Project: Personal Portfolio Page
 
 Task: Create a simple personal portfolio page using only HTML. The page should include the following sections:
 
@@ -13,7 +13,7 @@ Task: Create a simple personal portfolio page using only HTML. The page should i
 7. Footer
 
 
-Requirements:
+### Requirements:
 
 - Use appropriate HTML5 semantic tags
 - Include at least one table
@@ -24,7 +24,7 @@ Requirements:
 - Add comments to explain the purpose of different sections
 
 
-Here's a basic structure to get them started:
+### Here's a basic structure to get them started:
 
 ```html
     <!DOCTYPE html>
@@ -84,7 +84,7 @@ Here's a basic structure to get them started:
     </html>
 ```
 
-Submission Instructions:
+### Submission Instructions:
 
 1. Complete the HTML file with your personal information.
 2. Make sure to fulfill all the requirements listed above.
@@ -92,7 +92,7 @@ Submission Instructions:
 4. Submit the file before the next class.
 
 
-Bonus Challenge:
+### Bonus Challenge:
 
 - Add a simple form in the contact section (remember, we're not processing the form, just creating the HTML structure).
 - Use the `<figure>` and `<figcaption>` tags for your image.
