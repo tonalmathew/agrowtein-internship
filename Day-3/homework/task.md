@@ -46,3 +46,9 @@ This task incorporates several key concepts from the lesson:
 - Basic math operations
 - DOM manipulation (selecting elements, modifying content)
 - Event handling (button click)
+
+### Final output demo
+
+<video width="100%" height="auto" controls>
+  <source src="demo.mp4" type="video/mp4">
+</video>
