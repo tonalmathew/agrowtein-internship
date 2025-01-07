@@ -1,8 +1,17 @@
 # Homework Task: Simple Calculator with DOM Manipulation
 
-Create a basic calculator that can perform addition and subtraction. The calculator should have an interface where users can input two numbers and select an operation. The result should be displayed on the page.
+Create a basic calculator that can perform arithmetic operators. The calculator should have an interface where users can input two numbers and select an operation. The result should be displayed on the page.
 
-Here's the complete code for the task:
+### Requirements
+
+- Additional operations: multiplication, division, and modulus.
+- Error handling for division by zero and invalid inputs.
+- A "Clear" button to reset all inputs and the result.
+- Use of template literals for result display.
+- A switch statement to handle different operations.
+- Improved styling for better user experience.
+
+Here's the starter code for the task:
 
 ```html
 <!DOCTYPE html>
