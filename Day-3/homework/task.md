@@ -4,11 +4,11 @@ Create a basic calculator that can perform arithmetic operations. The calculator
 
 ### Requirements
 
-- Operations: Addition, Subtraction, Multiplication, Division, and Modulus.
+- Operations: Addition, Subtraction, Multiplication, Division and Modulus.
 - Error handling for division by zero and invalid inputs.
 - A **Clear** button to reset all inputs and the result.
 
-Here's the starter code for the task:
+#### Here's the starter code for the task:
 
 ```html
 <!DOCTYPE html>
@@ -44,7 +44,7 @@ Here's the starter code for the task:
 </html>
 ```
 
-This task incorporates several key concepts from the lesson:
+#### This task incorporates several key concepts from the lesson:
 
 - Variables and data types
 - Functions
