@@ -1,15 +1,12 @@
 # Homework Task: Simple Calculator with DOM Manipulation
 
-Create a basic calculator that can perform arithmetic operators. The calculator should have an interface where users can input two numbers and select an operation. The result should be displayed on the page.
+Create a basic calculator that can perform arithmetic operations. The calculator should have an interface where users can input two numbers and select an operation. The result should be displayed on the page.
 
 ### Requirements
 
-- Additional operations: multiplication, division, and modulus.
+- Operations: Addition, Subtraction, Multiplication, Division, and Modulus.
 - Error handling for division by zero and invalid inputs.
-- A "Clear" button to reset all inputs and the result.
-- Use of template literals for result display.
-- A switch statement to handle different operations.
-- Improved styling for better user experience.
+- A **Clear** button to reset all inputs and the result.
 
 Here's the starter code for the task:
 
@@ -19,7 +16,7 @@ Here's the starter code for the task:
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Enhanced Calculator</title>
+    <title>Calculator</title>
     <style>
       /* Apply some basic styles */
     </style>
