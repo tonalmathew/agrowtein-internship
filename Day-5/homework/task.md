@@ -65,7 +65,7 @@ For the final day of our web development course, you will create a responsive e-
 As an extra challenge, include your projects from the previous days in the same GitHub repository:
 
 1. Create separate folders for each day's project within your repository.
-2. Update the README.md to include links and descriptions for each project.
+2. Update the `README.md` to include links and descriptions for each project.
 3. Ensure all projects are accessible and functioning correctly when hosted.
 
 ## Submission
